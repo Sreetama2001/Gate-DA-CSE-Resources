@@ -17,7 +17,7 @@
  ## Engineering Mathematics
  
   - Youtube Playlist: https://www.youtube.com/playlist?list=PLgzsL8klq6DJfK1Hsi7qCHnjugXlBl3qm
-  - Linear Algebra
+  - Linear Algebra: https://youtube.com/playlist?list=PL221E2BBF13BECF6C&si=llVzNGwlK0kCQXY9
   - Calculus
   - Probability and Statistics
   - Discrete Mathematics
