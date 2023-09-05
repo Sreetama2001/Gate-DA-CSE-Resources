@@ -1,3 +1,4 @@
+
 # Gate-DA- Resources
  ## All Books 
   - https://drive.google.com/file/d/1ADPlRbiK_SA3gtk6xFzfpFMRaw2XGwZe/view  
@@ -6,8 +7,8 @@
    - Advanced Mathematics:- https://www.bau.edu.jo/UserPortal/UserProfile/PostsAttach/59003_3812_1.pdf
  * ### Videos
    - Linear Algebra:-
-   - Probability and Stat
-   - Calculus
+   - Probability and Stat:- https://www.youtube.com/watch?v=VVYLpmKRfQ8&list=PL6C92B335BD4238AB
+   - Calculus:- 
      
  ## Artificial Intelligence
  * ### Books
@@ -15,11 +16,21 @@
  * ### Videos
    - AI:- 
  ## Machine Learning
+  - 
  * ### Videos
    - 
  ## Dbms and Data Warehousing 
  * ### Videos
    -  
+## Questions and test series
+* https://www.jagranjosh.com/articles/gate-data-science-and-artificial-intelligence-important-questions-1693571076-1
+  
+## Scopes 
+* Mtech
+ * http://cds.iisc.ac.in/academics/mtechcds/
+ * https://eecs.iisc.ac.in/mtechai/
+ * https://ai.iith.ac.in/index.html
+  
 
 ----------------------------------------------------------------------------------------------------
  # Gate-CSE- Resources 
