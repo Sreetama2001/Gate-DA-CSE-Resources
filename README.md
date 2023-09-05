@@ -1,4 +1,4 @@
-
+[Readme](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis)
 # Gate-DA- Resources
  ## All Books 
   - https://drive.google.com/file/d/1ADPlRbiK_SA3gtk6xFzfpFMRaw2XGwZe/view  
