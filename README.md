@@ -14,7 +14,7 @@
  * ### Books
    - https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf
  * ### Videos
-   - AI:- 
+   - AI:- [Mausam sir nptel videos](https://www.youtube.com/watch?v=sNpME1MTiKg&list=PLp6ek2hDcoNB_YJCruBFjhF79f5ZHyBuz)
  ## Machine Learning
   - 
  * ### Videos
