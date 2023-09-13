@@ -6,7 +6,7 @@
  * ### Books
    - Advanced Mathematics:- https://www.bau.edu.jo/UserPortal/UserProfile/PostsAttach/59003_3812_1.pdf
  * ### Videos
-   - Linear Algebra:-
+   - Linear Algebra:- https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C
    - Probability and Stat:- https://www.youtube.com/watch?v=VVYLpmKRfQ8&list=PL6C92B335BD4238AB
    - Calculus:- 
      
